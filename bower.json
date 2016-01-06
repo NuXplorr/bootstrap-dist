@@ -1,0 +1,11 @@
+{
+	"name": "bootstrap-dist",
+	"main": [
+	  "bootstrap.js",
+	  "bootstrap.css",
+	  "bootstrap-theme.css"
+	],
+	"ignore": [
+		"package.json"
+	]
+}
